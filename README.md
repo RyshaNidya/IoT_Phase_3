@@ -52,7 +52,7 @@ Note :
 1. **Clone the Project**: Start by cloning the project from your friend's GitHub repository to your local machine.
 
    ```bash
-   git clone https://github.com/Irmayani3312301088/IoT-Phase-3.git
+   git clone https://github.com/RyshaNidya/IoT_Phase_3.git
 
 2. **Navigate to the project directory**
    ```bash
